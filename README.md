@@ -1,4 +1,4 @@
-# Neo4j_Graph_Data_Science
+Relation Prediction Using Neo4j - Graph Data Science Library
 Machine Learning using Neo4j
 
 Implemented graph data science techniques to forecast actor collaborations with 81% accuracy in a large Netflix dataset. 
