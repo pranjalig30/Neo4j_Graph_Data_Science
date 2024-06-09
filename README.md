@@ -8,11 +8,7 @@ Utilized the Cypher Query and Random Forest algorithms.
 * The last section presents the importance of each of the features used on the prediction performance.
 * The graph parameters used are: Common neighbors, preferential attachment, total neighbors, triangles count, clustering coefficient, Louvain coefficient, and partition community detection.
 
-Note: this paper is based on the notebook ‘Analyze netflix data using graphs (neo4j)’ published by [Yann Claudel.](https://www.kaggle.com/code/yclaudel/analyze-netflix-data-using-graphs-neo4j)
-
-Diagram of the nodes and relationships
-
-![asdf.PNG](attachment:0b2e4112-4b3b-4f50-b416-57d1ba3c62de.PNG)
+Note: this paper is based on the notebook ‘Analyze netflix data using graphs (neo4j) published by [Yann Claudel.](https://www.kaggle.com/code/yclaudel/analyze-netflix-data-using-graphs-neo4j)
 
 
 For this project, I am utilizing the Neo4j desktop version and running the sandbox on my local browser.
@@ -28,7 +24,7 @@ Steps to connect Neo4j Desktop with Jupyter Notebook:
 8. Next, click on the three dots next to the "Open" button and choose "Settings."
 9. Scroll to the bottom of the text file and set the `memory.heap.max_size` to 6G.
 
-    The Neo4j Graph Data Science (GDS) library provides efficiently implemented, parallel versions of common graph algorithms, exposed as Cypher procedures. Additionally, GDS includes machine learning pipelines to train predictive supervised models to solve graph problems, such as predicting missing relationships.
+The Neo4j Graph Data Science (GDS) library provides efficiently implemented, parallel versions of common graph algorithms, exposed as Cypher procedures. Additionally, GDS includes machine learning pipelines to train predictive supervised models to solve graph problems, such as predicting missing relationships.
 By leveraging the Graph Data Science Library and APOC (Awesome Procedures on Cypher), our approach is to analyze the intricate relationships and connections present within the movie industry. 
 
 Through the fusion of graph theory, data science, and advanced querying capabilities, we aim to provide insights into the likelihood of future collaborations between actors, offering valuable strategic information to stakeholders in the entertainment industry.
