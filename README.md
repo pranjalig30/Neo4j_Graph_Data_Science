@@ -10,6 +10,9 @@ Utilized the Cypher Query and Random Forest algorithms.
 
 Note: this paper is based on the notebook ‘Analyze netflix data using graphs (neo4j) published by [Yann Claudel.](https://www.kaggle.com/code/yclaudel/analyze-netflix-data-using-graphs-neo4j)
 
+## Fun Read
+
+[Everything You Need to Know About Graph Databases (Neo4j)](https://towardsdatascience.com/everything-you-need-to-know-about-graph-databases-neo4j-b9154f57dad0)
 
 For this project, I am utilizing the Neo4j desktop version and running the sandbox on my local browser.
 Steps to connect Neo4j Desktop with Jupyter Notebook:
